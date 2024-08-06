@@ -1,1 +1,14 @@
-this is file
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2024-08-06T12:19:14.182040739Z"
+    description: A Helm chart for Kubernetes
+    digest: 67d6bc7066c7aae2e5e328a997b4edb45310ac203cae67516711aa2aebd49938
+    name: my-app
+    type: application
+    urls:
+    - https://mansoorsyed.github.io/helmchartrepository/my-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-08-06T12:19:14.181172133Z"
